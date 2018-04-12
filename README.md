@@ -2,7 +2,8 @@
 Um projeto para o acompanhamento das práticas na disciplina de Álgebra Linear Computacional da UFRRJ durante o período 2018/1.
 
 ## Clonando o repositório
-Este projeto pode ser replicado (clonado) para uma máquina local através dos seguinte comandos:
+Como o presente projeto está hospedado no Github, deve ser instalado na máquina o cliente para o protocolo Git, e esse cliente pode ser encontrado nesse [link](https://git-scm.com/downloads) conforme a plataforma da máquina (geralmente o cliente git já vem instalado em algumas distribuições do linux).
+Após a instalção do git, este projeto pode ser replicado (clonado) para uma máquina local através dos seguintes comandos:
 ```shell
 cd ~
 mkdir git
