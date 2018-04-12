@@ -47,7 +47,7 @@ source ufrrj/bin/activate
 
 ### Bibliotecas (Dependências)
 Será necessária a instalação de algumas bibliotecas para álgebra linear, a mais conhecida e utilizada atualmente em python é a [Scipy](https://www.scipy.org/), que nada mais é que uma pilha de pacotes/módulos voltados para matemática e engenharias. O módulo mais pertinente a esse projeto chama-se [Numpy](http://www.numpy.org/).
-Com o abiente ativado, instale essas dependências através do comando abaixo:
+Com o ambiente ativado, instale essas dependências através do comando abaixo:
 ```shell
 pip install numpy scipy
 ```
