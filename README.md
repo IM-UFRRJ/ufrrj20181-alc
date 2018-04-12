@@ -10,8 +10,15 @@ cd git
 git clone https://github.com/fabriciorsf/ufrrj20181-alc.git
 cd ufrrj20181-alc
 ```
-O comando acima clona o projeto no diretório `git` criado dentro do diretório padrão do usuário (no Linux é indicado por `~`, no Windows esse caracter deve ser substituído por %HOMEPATH%).
+O comando acima clona o projeto no diretório `git` criado dentro do diretório padrão do usuário (no Linux é indicado por `~`, no Windows esse caracter deve ser substituído por `%HOMEPATH%`). Alternativamente à linha de comando, outras ferramentas podem ser utilizadas para a sincronização com esse repositório Git: [GitHub Desktop](https://desktop.github.com/), [Sourcetree](https://www.sourcetreeapp.com/) e [TortoiseGit](https://tortoisegit.org/) (outras ferramentas para as diversas plataformas podem ser encontradas [aqui](https://git-scm.com/download/gui)).
+
 Como este projeto é privado, primeiramente é importante que o usuário que pretende clonar tenha acesso ao mesmo (falar com o projessor da disciplina para conceder acesso).
+
+Periodicamente, a réplica local do repositório (i.e, na sua máquina) pode ser sincronizada com o repositório remoto (i.e,., no GitHub) através do seguinte comando:
+```shell
+cd ~/git/ufrrj20181-alc
+git pull --all
+```
 
 ## Configurações Iniciais
 O projeto foi preparado para funcionar com o Python 3.4 ou superior.
