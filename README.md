@@ -28,6 +28,8 @@ O projeto foi preparado para funcionar com o Python 3.4 ou superior.
 O Python é uma linguagem de programação, e necessita de um interpretador para que seu código seja executado. O Pip é uma ferramenta para a instalação de bibliotecas (dependências) em python a partir de repositórios remotos (na internet).
 Faça o download e instale o [Python](https://www.python.org/downloads/) e [Pip](https://pip.pypa.io/en/stable/installing/). Geralmente o Pip já vem dentro da distribuição do Python, então logo após a instalação do python, teste se o comando `pip` é reconhecido antes de decidir por instalá-lo separadamente.
 
+A documentação de Python pode ser acessada [aqui](https://docs.python.org/), e algumas aulas introdutórias de programação com Python podem ser acessadas [aqui](http://jacarepagua.dcc.ufrj.br/~ladybug/).
+
 ### Ambiente Virtual
 Como é necessário a instalação de algumas bibliotecas, e para evitar problemas de conflito entre as diversas bibliotecas (dependências) dos projetos em python que possam ser executados em uma mesma máquina, é importante que se trabalhe em um ambiente reservado para o atual projeto (recomenda-se um ambiente para cada projeto independente).
 Para isso, existem algumas ferramentas de criação desses ambientes, conhecidos como ambientes virtuais.
