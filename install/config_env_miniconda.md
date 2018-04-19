@@ -34,18 +34,14 @@ export PATH="$HOME/miniconda/bin:$PATH"
 ```
 
 
-* [Windows 64-bit](https://conda.io/docs/user-guide/install/windows.html)
-
-Primeiramente faça o [download](https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86_64.exe), e depois execute o comando:
+* [Windows 64-bit](https://conda.io/docs/user-guide/install/windows.html) - Primeiramente faça o [download](https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86_64.exe), e depois execute o comando:
 
 ```shell
 start /wait "" Miniconda4-latest-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniconda3
 ```
 
 
-* [Windows 32-bit](https://conda.io/docs/user-guide/install/windows.html)
-
-Primeiramente faça o [download](https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86.exe), e depois execute o comando:
+* [Windows 32-bit](https://conda.io/docs/user-guide/install/windows.html) - Primeiramente faça o [download](https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86.exe), e depois execute o comando:
 
 ```shell
 start /wait "" Miniconda4-latest-Windows-x86.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniconda3

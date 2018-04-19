@@ -41,7 +41,7 @@ source ~/git/ufrrj20181-alc/ufrrj/bin/activate
 
 Use o seguinte comando para desativar o ambiente virtual:
 ```shell
-source ~/git/ufrrj20181-alc/ufrrj/bin/deactivate
+deactivate
 ```
 
 

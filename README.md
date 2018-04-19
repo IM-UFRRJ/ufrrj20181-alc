@@ -15,3 +15,6 @@ A documentação de Python pode ser acessada [aqui](https://docs.python.org/), e
 
 
 ## Aulas
+
+* [Aula 01](classes/aula01.md)
+* [Aula 02](classes/aula02.md)
