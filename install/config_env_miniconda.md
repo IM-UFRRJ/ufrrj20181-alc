@@ -56,7 +56,7 @@ conda update conda
 conda create -n ufrrj python=3
 ```
 
-Se o comando conda não for reconhecido, troque `conda` por `~/miniconda/bin/conda`.
+Se o comando `conda` não for reconhecido, troque `conda` por `~/miniconda/bin/conda`.
 
 
 ### Ativação do ambiente virtual
@@ -66,11 +66,12 @@ O próximo passo é a ativação desse ambiente reservado que foi criado no pass
 conda activate ufrrj
 ```
 
+
 ### Desativação do ambiente virtual
 
 Use o seguinte comando para desativar o ambiente virtual:
 ```shell
-conda deactivate ufrrj
+conda deactivate
 ```
 
 
