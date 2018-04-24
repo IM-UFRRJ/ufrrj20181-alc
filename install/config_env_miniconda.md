@@ -66,6 +66,11 @@ O próximo passo é a ativação desse ambiente reservado que foi criado no pass
 conda activate ufrrj
 ```
 
+Dependendo de como foi instalado o `conda`, talvez o comando acima não funcione. Nesse caso, use o comando abaixo, substituindo a variável `$CONDA` pelo camiho de instalação dos arquivos binários do `conda`.
+```shell
+source $CONDA/activate ufrrj
+```
+
 
 ### Desativação do ambiente virtual
 
