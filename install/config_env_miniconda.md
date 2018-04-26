@@ -71,8 +71,22 @@ Dependendo de como foi instalado o `conda`, talvez o comando acima não funcione
 source $CONDA/activate ufrrj
 ```
 
-Obs.: O diretório padrão de instalação do miniconda no linux é o seguinte caminho `~/miniconda`, portanto os binários estão nesse caminho `~/miniconda/bin`.
+Obs.: O diretório padrão de instalação do miniconda no linux é o seguinte caminho `~/miniconda`, portanto os binários estão nesse caminho `~/miniconda/bin`. , caso o cominho de instalação seja o padrão, o comando correto será o seguinte:
+```shell
+source ~/miniconda/bin/activate ufrrj
+```
 
+### Entrando e Saindo do interpretador python
+
+Com o ambiente previamente ativado, para entrar no interpretador python, execute o comando:
+```shell
+python
+```
+
+E para sair do interpretador python, execute o comando:
+```shell
+exit()
+```
 
 ### Desativação do ambiente virtual
 
