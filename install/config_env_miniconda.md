@@ -71,6 +71,8 @@ Dependendo de como foi instalado o `conda`, talvez o comando acima não funcione
 source $CONDA/activate ufrrj
 ```
 
+Obs.: O diretório padrão de instalação do miniconda no linux é o seguinte caminho `~/miniconda`, portanto os binários estão nesse caminho `~/miniconda/bin`.
+
 
 ### Desativação do ambiente virtual
 
