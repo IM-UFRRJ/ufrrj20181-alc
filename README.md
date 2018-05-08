@@ -19,6 +19,7 @@ Outros links para tutoriais de Python:
 * [Intro to Linear Algebra with Python](https://github.com/lesley2958/linear-algebra-with-python)
 * [Numerical Methods and Statistics (with Python)](https://github.com/whitead/numerical_stats)
 * [Documentação das rotinas para Álgera Linear com `numpy`](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)
+* [Documentação das rotinas para Álgera Linear com `scipy`](https://docs.scipy.org/doc/scipy/reference/linalg.html)
 
 
 ## Aulas
