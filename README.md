@@ -20,6 +20,8 @@ Outros links para tutoriais de Python:
 * [Numerical Methods and Statistics (with Python)](https://github.com/whitead/numerical_stats)
 * [Documentação das rotinas para Álgera Linear com `numpy`](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)
 * [Documentação das rotinas para Álgera Linear com `scipy`](https://docs.scipy.org/doc/scipy/reference/linalg.html)
+* [Documentação completa `numpy`](https://docs.scipy.org/doc/numpy/reference/)
+* [Documentação completa `scipy`](https://docs.scipy.org/doc/scipy/reference/)
 
 
 ## Aulas
