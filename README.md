@@ -31,5 +31,8 @@ _Todo o código apresentado nas aulas deve ser executado no ambiente virtual pre
 * [Aula 01](lectures/aula01.ipynb)
 * [Aula 02](lectures/aula02.ipynb)
 * [Aula 03](lectures/aula03.ipynb)
+* [Aula 04](lectures/aula04.ipynb)
 
 ## [Atividades](lectures/activities.md)
+
+## [Trabalho](lectures/trabalho.md)
