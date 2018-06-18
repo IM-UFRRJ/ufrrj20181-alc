@@ -12,7 +12,7 @@
 * DOUGLAS e SAMARA: SOR
 * FABIO LUIZ e VITORIA: Metodo Newton Raphson
 * LUIS PAULO e RENAN: Jacobi
-* NATHALIA e THAIS: Gauss-Sudel
+* NATHALIA e THAIS: Gauss-Seidel
 
 
 ## Prazo: 18/JUN/2018 (SEG)
